@@ -1,9 +1,3 @@
----
-description: >-
-  This gitbook serves to document my solutions to each of the github problems
-  that I have solved and will be solving!
----
-
 # LeetCode!
 
 Since early 2017 I have been doing [leetcode](https://leetcode.com/submissions/#/46) problems in my free time, whenever and wherever.
