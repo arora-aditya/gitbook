@@ -9,4 +9,6 @@
 * [219. Contains Duplicate II](array/219.-contains-duplicate-ii.md)
 * [697. Degree of an Array](array/697.-degree-of-an-array.md)
 * [442. Find All Duplicates in an Array](array/442.-find-all-duplicates-in-an-array.md)
+* [832. Flipping an Image](array/832.-flipping-an-image.md)
+* [661. Image Smoother](array/661.-image-smoother.md)
 
