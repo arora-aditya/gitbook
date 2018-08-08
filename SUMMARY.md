@@ -17,3 +17,8 @@
 * [401. Binary Watch](backtracking/401.-binary-watch.md)
 * [294. Flip Game II](backtracking/294.-flip-game-ii.md)
 
+## Binary Search
+
+* [852. Peak Index in a Mountain Array](binary-search/852.-peak-index-in-a-mountain-array.md)
+* [744. Find Smallest Letter Greater Than Target](binary-search/744.-find-smallest-letter-greater-than-target.md)
+
