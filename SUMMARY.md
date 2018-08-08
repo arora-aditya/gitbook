@@ -12,3 +12,8 @@
 * [832. Flipping an Image](array/832.-flipping-an-image.md)
 * [661. Image Smoother](array/661.-image-smoother.md)
 
+## Backtracking
+
+* [401. Binary Watch](backtracking/401.-binary-watch.md)
+* [294. Flip Game II](backtracking/294.-flip-game-ii.md)
+
