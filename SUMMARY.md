@@ -26,3 +26,8 @@
 
 * [17. Letter Combinations of a Phone Number](string/17.-letter-combinations-of-a-phone-number.md)
 
+## Design
+
+* [281. Zigzag Iterator](design/281.-zigzag-iterator.md)
+* [251. Flatten 2D Vector](design/251.-flatten-2d-vector.md)
+
