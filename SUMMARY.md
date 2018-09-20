@@ -25,9 +25,18 @@
 ## String
 
 * [17. Letter Combinations of a Phone Number](string/17.-letter-combinations-of-a-phone-number.md)
+* [6. ZigZag Conversion](string/6.-zigzag-conversion.md)
 
 ## Design
 
 * [281. Zigzag Iterator](design/281.-zigzag-iterator.md)
 * [251. Flatten 2D Vector](design/251.-flatten-2d-vector.md)
+
+## Hash Table
+
+* [1. Two Sum](hash-table/1.-two-sum.md)
+
+## Linked List
+
+* [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
 
