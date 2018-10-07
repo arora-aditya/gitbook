@@ -26,6 +26,7 @@
 
 * [17. Letter Combinations of a Phone Number](string/17.-letter-combinations-of-a-phone-number.md)
 * [6. ZigZag Conversion](string/6.-zigzag-conversion.md)
+* [38. Count and Say](string/38.-count-and-say.md)
 
 ## Design
 
