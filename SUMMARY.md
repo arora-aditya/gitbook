@@ -45,3 +45,7 @@
 
 * [917. Reverse Only Letters](unsorted/917.-reverse-only-letters.md)
 
+## Math
+
+* [43. Multiply Strings](math/43.-multiply-strings.md)
+
