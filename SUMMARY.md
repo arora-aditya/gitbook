@@ -58,3 +58,11 @@
 
 * [701. Insert into a Binary Search Tree](tree/701.-insert-into-a-binary-search-tree.md)
 
+## Divide and Conquer
+
+* [53. Maximum Subarray](divide-and-conquer/53.-maximum-subarray.md)
+
+## Dynamic Programming
+
+* [303. Range Sum Query - Immutable](dynamic-programming/303.-range-sum-query-immutable.md)
+
