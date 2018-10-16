@@ -27,6 +27,7 @@
 * [17. Letter Combinations of a Phone Number](string/17.-letter-combinations-of-a-phone-number.md)
 * [6. ZigZag Conversion](string/6.-zigzag-conversion.md)
 * [38. Count and Say](string/38.-count-and-say.md)
+* [544. Output Contest Matches](string/544.-output-contest-matches.md)
 
 ## Design
 
@@ -48,4 +49,12 @@
 ## Math
 
 * [43. Multiply Strings](math/43.-multiply-strings.md)
+
+## Greedy
+
+* [861. Score After Flipping Matrix](greedy/861.-score-after-flipping-matrix.md)
+
+## Tree
+
+* [701. Insert into a Binary Search Tree](tree/701.-insert-into-a-binary-search-tree.md)
 
