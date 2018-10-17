@@ -11,6 +11,7 @@
 * [442. Find All Duplicates in an Array](array/442.-find-all-duplicates-in-an-array.md)
 * [832. Flipping an Image](array/832.-flipping-an-image.md)
 * [661. Image Smoother](array/661.-image-smoother.md)
+* [723. Candy Crush](array/723.-candy-crush.md)
 
 ## Backtracking
 
