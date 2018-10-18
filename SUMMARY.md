@@ -54,6 +54,7 @@
 ## Greedy
 
 * [861. Score After Flipping Matrix](greedy/861.-score-after-flipping-matrix.md)
+* [406. Queue Reconstruction by Height](greedy/406.-queue-reconstruction-by-height.md)
 
 ## Tree
 
