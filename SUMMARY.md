@@ -50,6 +50,7 @@
 ## Math
 
 * [43. Multiply Strings](math/43.-multiply-strings.md)
+* [553. Optimal Division](math/553.-optimal-division.md)
 
 ## Greedy
 
