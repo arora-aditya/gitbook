@@ -51,6 +51,7 @@
 
 * [43. Multiply Strings](math/43.-multiply-strings.md)
 * [553. Optimal Division](math/553.-optimal-division.md)
+* [800. Similar RGB Color](math/800.-similar-rgb-color.md)
 
 ## Greedy
 
