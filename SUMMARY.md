@@ -13,6 +13,7 @@
 * [661. Image Smoother](array/661.-image-smoother.md)
 * [723. Candy Crush](array/723.-candy-crush.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
+* [245. Shortest Word Distance III](array/245.-shortest-word-distance-iii.md)
 
 ## Backtracking
 
