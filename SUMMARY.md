@@ -40,6 +40,7 @@
 ## Hash Table
 
 * [1. Two Sum](hash-table/1.-two-sum.md)
+* [508. Most Frequent Subtree Sum](hash-table/508.-most-frequent-subtree-sum.md)
 
 ## Linked List
 
