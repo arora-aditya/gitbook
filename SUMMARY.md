@@ -31,6 +31,7 @@
 * [6. ZigZag Conversion](string/6.-zigzag-conversion.md)
 * [38. Count and Say](string/38.-count-and-say.md)
 * [544. Output Contest Matches](string/544.-output-contest-matches.md)
+* [521. Longest Uncommon Subsequence I](string/521.-longest-uncommon-subsequence-i.md)
 
 ## Design
 
