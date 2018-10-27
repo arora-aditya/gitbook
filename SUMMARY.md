@@ -67,6 +67,7 @@
 ## Tree
 
 * [701. Insert into a Binary Search Tree](tree/701.-insert-into-a-binary-search-tree.md)
+* [897. Increasing Order Search Tree](tree/897.-increasing-order-search-tree.md)
 
 ## Divide and Conquer
 
