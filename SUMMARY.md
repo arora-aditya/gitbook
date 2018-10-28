@@ -77,6 +77,7 @@
 
 * [303. Range Sum Query - Immutable](dynamic-programming/303.-range-sum-query-immutable.md)
 * [750. Number Of Corner Rectangles](dynamic-programming/750.-number-of-corner-rectangles.md)
+* [62. Unique Paths](dynamic-programming/62.-unique-paths.md)
 
 ## Depth first search
 
