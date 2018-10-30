@@ -79,6 +79,7 @@
 * [750. Number Of Corner Rectangles](dynamic-programming/750.-number-of-corner-rectangles.md)
 * [62. Unique Paths](dynamic-programming/62.-unique-paths.md)
 * [63. Unique Paths II](dynamic-programming/63.-unique-paths-ii.md)
+* [64. Minimum Path Sum](dynamic-programming/64.-minimum-path-sum.md)
 
 ## Depth first search
 
