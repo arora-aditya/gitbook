@@ -82,6 +82,7 @@
 * [64. Minimum Path Sum](dynamic-programming/64.-minimum-path-sum.md)
 * [198. House Robber](dynamic-programming/198.-house-robber.md)
 * [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
+* [337. House Robber III](dynamic-programming/337.-house-robber-iii.md)
 
 ## Depth first search
 
