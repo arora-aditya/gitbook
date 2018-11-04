@@ -83,6 +83,7 @@
 * [198. House Robber](dynamic-programming/198.-house-robber.md)
 * [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
 * [337. House Robber III](dynamic-programming/337.-house-robber-iii.md)
+* [120. Triangle](dynamic-programming/120.-triangle.md)
 
 ## Depth first search
 
