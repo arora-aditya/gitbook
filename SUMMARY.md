@@ -8,12 +8,12 @@
 * [219. Contains Duplicate II](array/219.-contains-duplicate-ii.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
 * [245. Shortest Word Distance III](array/245.-shortest-word-distance-iii.md)
-* [392. Is Subsequence](array/392.-is-subsequence.md)
 * [442. Find All Duplicates in an Array](array/442.-find-all-duplicates-in-an-array.md)
-* [561. Array Partition I](array/561.-array-partition-i.md)
 * [661. Image Smoother](array/661.-image-smoother.md)
-* [697. Degree of an Array](array/697.-degree-of-an-array.md)
+* [392. Is Subsequence](array/392.-is-subsequence.md)
+* [561. Array Partition I](array/561.-array-partition-i.md)
 * [723. Candy Crush](array/723.-candy-crush.md)
+* [697. Degree of an Array](array/697.-degree-of-an-array.md)
 * [832. Flipping an Image](array/832.-flipping-an-image.md)
 
 ## Backtracking
@@ -29,8 +29,8 @@
 ## String
 
 * [6. ZigZag Conversion](string/6.-zigzag-conversion.md)
-* [17. Letter Combinations of a Phone Number](string/17.-letter-combinations-of-a-phone-number.md)
 * [38. Count and Say](string/38.-count-and-say.md)
+* [17. Letter Combinations of a Phone Number](string/17.-letter-combinations-of-a-phone-number.md)
 * [521. Longest Uncommon Subsequence I](string/521.-longest-uncommon-subsequence-i.md)
 * [544. Output Contest Matches](string/544.-output-contest-matches.md)
 
@@ -79,12 +79,12 @@
 * [62. Unique Paths](dynamic-programming/62.-unique-paths.md)
 * [63. Unique Paths II](dynamic-programming/63.-unique-paths-ii.md)
 * [64. Minimum Path Sum](dynamic-programming/64.-minimum-path-sum.md)
-* [120. Triangle](dynamic-programming/120.-triangle.md)
 * [198. House Robber](dynamic-programming/198.-house-robber.md)
-* [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
 * [303. Range Sum Query - Immutable](dynamic-programming/303.-range-sum-query-immutable.md)
-* [337. House Robber III](dynamic-programming/337.-house-robber-iii.md)
+* [120. Triangle](dynamic-programming/120.-triangle.md)
 * [750. Number Of Corner Rectangles](dynamic-programming/750.-number-of-corner-rectangles.md)
+* [213. House Robber II](dynamic-programming/213.-house-robber-ii.md)
+* [337. House Robber III](dynamic-programming/337.-house-robber-iii.md)
 
 ## Depth first search
 
