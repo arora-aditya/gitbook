@@ -20,6 +20,7 @@
 
 * [294. Flip Game II](backtracking/294.-flip-game-ii.md)
 * [401. Binary Watch](backtracking/401.-binary-watch.md)
+* [1079. Letter Tile Possibilities](backtracking/1079.-letter-tile-possibilities.md)
 
 ## Binary Search
 
