@@ -96,3 +96,7 @@
 
 * [677. Map Sum Pairs](trie/677.-map-sum-pairs.md)
 
+## Two pointer
+
+* [42. Trapping Rain Water](two-pointer/42.-trapping-rain-water.md)
+
