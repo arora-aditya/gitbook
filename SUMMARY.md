@@ -46,6 +46,7 @@
 * [1. Two Sum](hash-table/1.-two-sum.md)
 * [508. Most Frequent Subtree Sum](hash-table/508.-most-frequent-subtree-sum.md)
 * [884. Uncommon Words from Two Sentences](hash-table/884.-uncommon-words-from-two-sentences.md)
+* [734. Sentence Similarity](hash-table/734.-sentence-similarity.md)
 
 ## Linked List
 
