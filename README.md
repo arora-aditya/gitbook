@@ -1,6 +1,6 @@
 # LeetCode!
 
-Since early 2017 I have been doing [leetcode](https://leetcode.com/submissions/#/46) problems in my free time, whenever and wherever.
+Since early 2017 I have been doing [leetcode](https://leetcode.com/arora-aditya/) problems in my free time, whenever and wherever.
 
 Not only does this ensure that my algorithmic knowledge is in tip top shape it also makes sure that my brain keeps exercising. \(It is a muscle ya'll\)
 
