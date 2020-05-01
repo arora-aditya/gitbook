@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LeetCode!](README.md)
+* [My personal guide to Leetcode](my-personal-guide-to-leetcode.md)
 
 ## Array
 
