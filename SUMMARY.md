@@ -6,6 +6,7 @@
 ## Array
 
 * [11. Container With Most Water](array/11.-container-with-most-water.md)
+* [15. 3Sum](array/15.-3sum.md)
 * [219. Contains Duplicate II](array/219.-contains-duplicate-ii.md)
 * [238. Product of Array Except Self](array/238.-product-of-array-except-self.md)
 * [245. Shortest Word Distance III](array/245.-shortest-word-distance-iii.md)
